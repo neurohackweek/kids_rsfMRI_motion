@@ -9,6 +9,10 @@ pandas
 scikit-learn
 scipy
 
+- DATA.tar.gz contains the resting state data used in this project.
+- Phenotypic_V1_0b_preprocessed1.csv contains the necessary phenotype data.
+- conda_env_py2.yml can be used to create a conda environment that approximates the one used for this project.
+
 ## Split-half reliability
 
 - abide_motion_wrapper.py performs an analysis for a single set of parameters.
